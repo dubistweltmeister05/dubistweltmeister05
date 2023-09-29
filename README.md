@@ -15,6 +15,7 @@ I got introduced to Embedded systems while I was a trainee on the team, and I ha
 * Assembly
 * VHDL 
 * Verilog
+* 	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
  
 
