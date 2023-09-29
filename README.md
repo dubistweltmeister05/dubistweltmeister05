@@ -1,7 +1,7 @@
 
 # Hi there 👋, Kshitij Vaze here!
 ## Embedded Systems Engineer
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 Welcome to my Github, and thank you for visiting. I am a 20-year-old student in the third year of my Bachelor's Degree in *Electronics & Telecommunication Engineering*.
 I hail from Navi-Mumbai, which is where I was born and brought up. I am an alumnus of DAV Public School. I am also a part of Team Automatons, which is the Robotics Research and Development team of my college. Every year, we answer the challenge of ROBOCON and have been consistently among the top robotics teams of INDIA.
 
