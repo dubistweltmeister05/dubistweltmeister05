@@ -23,6 +23,4 @@ Skills: Embedded C / C++ / Assembly / VHDL / Verilog
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dubistweltmeister05&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/dubistweltmeister05)  
 
-![Profile views](https://gpvc.arturio.dev/dubistweltmeister05)  
