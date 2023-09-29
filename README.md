@@ -1,11 +1,12 @@
 # 💫 About Me:
 # Hi there 👋, Kshitij Vaze here!<br>## Embedded Systems Engineer<br><br>Welcome to my Github, and thank you for visiting. 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d__by__dx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kshitij-vaze-177a16229/) 
 
 I am a 20-year-old student in the third year of my Bachelor's Degree in *Electronics & Telecommunication Engineering*.<br>I hail from Navi-Mumbai, which is where I was born and brought up. I am an alumnus of DAV Public School. I am also a part of Team Automatons, which is the Robotics Research and Development team of my college. Every year, we answer the challenge of ROBOCON and have been consistently among the top robotics teams of INDIA.<br><br>My role in the team is that as an **EMBEDDED SYSTEMS ENGINEER**. I am responsible for the coding of the Microcontrollers of our robots. I have worked with multiple boards like 8051, PIC, Arduino family of boards (Including, but not limited to boards like UNO, MEGA, DUE, NANO, MINI, PRO MINI), and **STM32** series.<br><br>I got introduced to Embedded systems while I was a trainee on the team, and I haven't looked back since! I am looking to collaborate and connect with people who are equally passionate about Embedded development, bare metal programming, VLSI, and robotics! I also have been a guitarist since I was 12, and am a sports enthusiast, having played football and cricket at club level. <br><br>## Skills <br>* ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br>* ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<br><br> <br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d__by__dx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kshitij-vaze-177a16229/) 
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
