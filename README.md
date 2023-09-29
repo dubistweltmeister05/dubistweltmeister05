@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
 <br><br>
 
-<h1 align="justified">Hi 👋, I'm Kshitij Vaze </h1>
+<h1 align="Center">Hi 👋, I'm Kshitij Vaze </h1>
 <h3 align="justified">A passionate Embedded developer from India <br> Welcome to my Github, and thank you for visiting. </h3>
 
 
