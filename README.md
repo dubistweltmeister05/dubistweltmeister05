@@ -11,6 +11,8 @@ I am a 20-year-old student in the third year of my Bachelor's Degree in *Electro
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d__by__dx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kshitij-vaze-177a16229/) 
 
+<img src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" />
+
 
 # 💻 Tech Stack:
 
