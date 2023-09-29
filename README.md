@@ -15,7 +15,7 @@ I am a 20-year-old student in the third year of my Bachelor's Degree in *Electro
 # 💻 Tech Stack:
 
 <img src="https://user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" width = "100">
-<img src="https://user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" width = "100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width = "100">
 " width = "100">
 
 # 📊 GitHub Stats:
