@@ -1,6 +1,6 @@
 
-### Hi there 👋, Kshitij Vaze here!
-#### Embedded Systems Engineer
+# Hi there 👋, Kshitij Vaze here!
+## Embedded Systems Engineer
 ![Embedded Systems Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Welcome to my Github, and thank you for visiting. I am a 20-year-old student in the third year of my Bachelor's Degree in *Electronics & Telecommunication Engineering*.
@@ -10,7 +10,14 @@ My role in the team is that as an **EMBEDDED SYSTEMS ENGINEER**. I am responsibl
 
 I got introduced to Embedded systems while I was a trainee on the team, and I haven't looked back since! I am looking to collaborate and connect with people who are equally passionate about Embedded development, bare metal programming, VLSI, and robotics! I also have been a guitarist since I was 12, and am a sports enthusiast, having played football and cricket at club level. 
 
-Skills: Embedded C / C++ / Assembly / VHDL / Verilog
+## Skills 
+* Embedded C 
+* C++
+* Assembly
+* VHDL 
+* Verilog
+
+ 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning CAN Programming on STM32 boards 
