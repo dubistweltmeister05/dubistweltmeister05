@@ -12,7 +12,7 @@
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
-<h3 align="Centre"> I got introduced to Embedded systems while I was a trainee on the team, and I haven't looked back since! I am looking to collaborate and connect with people who are equally passionate about Embedded development, bare metal programming, VLSI, and robotics! I also have been a guitarist since I was 12, and am a sports enthusiast, having played football and cricket at club level. </h3>
+<h4 align="Centre"> I got introduced to Embedded systems while I was a trainee on the team, and I haven't looked back since! I am looking to collaborate and connect with people who are equally passionate about Embedded development, bare metal programming, VLSI, and robotics! I also have been a guitarist since I was 12, and am a sports enthusiast, having played football and cricket at club level. </h4>
 
 
 ## 🌐 Socials:
