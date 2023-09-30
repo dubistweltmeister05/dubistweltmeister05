@@ -8,11 +8,11 @@
 I am a 20-year-old student in the third year of my Bachelor's Degree in *Electronics & Telecommunication Engineering*.<br>I hail from Navi-Mumbai, which is where I was born and brought up. I am an alumnus of ***DAV Public School***.
 
 I am also a part of Team Automatons, which is the Robotics Research and Development team of my college. Every year, we answer the challenge of ROBOCON and have been consistently among the top robotics teams of INDIA.<br><br>My role in the team is that as an **EMBEDDED SYSTEMS ENGINEER**. I am responsible for the coding of the Microcontrollers of our robots. I have worked with multiple boards like 8051, PIC, Arduino family of boards (Including, but not limited to boards like UNO, MEGA, DUE, NANO, MINI, PRO MINI), and **STM32** series.
-<br><br>  <p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+<br><br>  
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
+
 I got introduced to Embedded systems while I was a trainee on the team, and I haven't looked back since! I am looking to collaborate and connect with people who are equally passionate about ***Embedded development, bare metal programming, VLSI, and robotics!*** I also have been a guitarist since I was 12, and am a sports enthusiast, having played football and cricket at club level. 
 
 
