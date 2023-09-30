@@ -9,7 +9,10 @@
 <h1 align="Center">Hi 👋, I'm Kshitij Vaze </h1>
 <h3 align="Center">A humble Embedded developer from India <br> Welcome to my Github, and thank you for visiting. </h3>
 
-<h4 align="Centre">I am a 20-year-old student in the third year of my Bachelor's Degree in Electronics & Telecommunication Engineering.<br>I hail from Navi-Mumbai, which is where I was born and brought up. I am an alumnus of DAV Public School.</h4>
+<p align="Centre">
+  I am a 20-year-old student in the third year of my Bachelor's Degree in Electronics & Telecommunication Engineering.<br>I hail from Navi-Mumbai, which is where I was born and brought up. I am an 
+  alumnus of DAV Public School.
+</p>
 
 <h4 align="Centre">I am also a part of Team Automatons, which is the Robotics Research and Development team of my college. Every year, we answer the challenge of ROBOCON and have been consistently among the top robotics teams of INDIA.<br><br>My role in the team is that as an EMBEDDED SYSTEMS ENGINEER. I am responsible for the coding of the Microcontrollers of our robots. I have worked with multiple boards like 8051, PIC, Arduino family of boards (Including, but not limited to boards like UNO, MEGA, DUE, NANO, MINI, PRO MINI), and STM32 series.</h4>
 <br><br>  
