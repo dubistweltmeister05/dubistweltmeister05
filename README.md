@@ -17,6 +17,15 @@
 
 <br><br>  
 
+<div class="slide-content">
+  <img src="http://static.adzerk.net/Advertisers/fdec4733b4814d9e958b7f86c25020b5.jpg" width="152" height="150" alt="Delicious Ideas from AllRecipes.com">
+  <div class="imgDes">
+    <h3>Delicious Ideas from AllRecipes.com</h3>
+    <p>BI-LO has teamed up with AllRecipes.com to provide enhanced recipe searches, regionally inspired recipes, ratings, videos and more.</p>
+    <p class="more">Find the perfect recipe</p>
+  </div>
+</div>
+
 <img left:50 src="https://github.com/dubistweltmeister05/dubistweltmeister05/blob/main/_704e2deb-eceb-4555-8b30-af8942dea2eb.jpg" />  <p align="Centre">
   I am also a part of Team Automatons, which is the Robotics Research and Development team of my college. Every year, we answer the challenge of ROBOCON and have been consistently among the top 
   robotics teams of INDIA.<br><br>My role in the team is that as an EMBEDDED SYSTEMS ENGINEER. I am responsible for the coding of the Microcontrollers of our robots. I have worked with multiple 
