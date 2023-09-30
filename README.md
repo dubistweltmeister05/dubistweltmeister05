@@ -22,7 +22,7 @@
 </p>
 <br><br>  
 
-<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" />
+<img src="https://github.com/dubistweltmeister05/dubistweltmeister05/blob/main/_704e2deb-eceb-4555-8b30-af8942dea2eb.jpg" />
 
 <p align="Centre">
   I got introduced to Embedded systems while I was a trainee on the team, and I haven't looked back since! I am looking to collaborate and connect with people who are equally passionate about 
