@@ -14,7 +14,7 @@ I am also a part of Team Automatons, which is the Robotics Research and Developm
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d__by__dx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kshitij-vaze-177a16229/) 
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+<img src="https://profile-counter.glitch.me/dubistweltmeister05/count.svg" />
 
 # 💻 Tech Stack:
 
