@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dubistweltmeister05/dubistweltmeister05/blob/main/_84aa429c-717c-419c-8072-e9a80bd116d6.jpg">
+  <img width="100"src="https://github.com/dubistweltmeister05/dubistweltmeister05/blob/main/_84aa429c-717c-419c-8072-e9a80bd116d6.jpg">
 </p>
 
 
