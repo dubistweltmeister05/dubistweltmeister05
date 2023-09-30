@@ -17,7 +17,7 @@
 
 <br><br>  
 
-<img src="https://github.com/dubistweltmeister05/dubistweltmeister05/blob/main/_704e2deb-eceb-4555-8b30-af8942dea2eb.jpg" />  <p align="Centre">
+<img left:50 src="https://github.com/dubistweltmeister05/dubistweltmeister05/blob/main/_704e2deb-eceb-4555-8b30-af8942dea2eb.jpg" />  <p align="Centre">
   I am also a part of Team Automatons, which is the Robotics Research and Development team of my college. Every year, we answer the challenge of ROBOCON and have been consistently among the top 
   robotics teams of INDIA.<br><br>My role in the team is that as an EMBEDDED SYSTEMS ENGINEER. I am responsible for the coding of the Microcontrollers of our robots. I have worked with multiple 
   boards like 8051, PIC, Arduino family of boards (Including, but not limited to boards like UNO, MEGA, DUE, NANO, MINI, PRO MINI), and STM32 series.
