@@ -19,14 +19,36 @@ I am a 20-year-old student in the third year of my Bachelor's Degree in *Electro
 <img src="https://user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" width = "100"> <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width = "100">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dubistweltmeister05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dubistweltmeister05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dubistweltmeister05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</details>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dubistweltmeister05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=dubistweltmeister05&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dubistweltmeister05">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dubistweltmeister05&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dubistweltmeister05">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dubistweltmeister05&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dubistweltmeister05">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dubistweltmeister05&theme=dracula"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dubistweltmeister05">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dubistweltmeister05&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
