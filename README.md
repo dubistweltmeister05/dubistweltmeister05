@@ -1,4 +1,8 @@
-<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+</p>
+
+
 
 <br><br>
 
@@ -9,9 +13,9 @@
 
 <h4 align="Centre">I am also a part of Team Automatons, which is the Robotics Research and Development team of my college. Every year, we answer the challenge of ROBOCON and have been consistently among the top robotics teams of INDIA.<br><br>My role in the team is that as an EMBEDDED SYSTEMS ENGINEER. I am responsible for the coding of the Microcontrollers of our robots. I have worked with multiple boards like 8051, PIC, Arduino family of boards (Including, but not limited to boards like UNO, MEGA, DUE, NANO, MINI, PRO MINI), and STM32 series.</h4>
 <br><br>  
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
-</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" />
+
 <h4 align="Centre"> I got introduced to Embedded systems while I was a trainee on the team, and I haven't looked back since! I am looking to collaborate and connect with people who are equally passionate about Embedded development, bare metal programming, VLSI, and robotics! I also have been a guitarist since I was 12, and am a sports enthusiast, having played football and cricket at club level. </h4>
 
 
