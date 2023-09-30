@@ -3,7 +3,7 @@
 <br><br>
 
 <h1 align="Center">Hi 👋, I'm Kshitij Vaze </h1>
-<h3 align="Center">A passionate Embedded developer from India <br> Welcome to my Github, and thank you for visiting. </h3>
+<h3 align="Center">A humble Embedded developer from India <br> Welcome to my Github, and thank you for visiting. </h3>
 
 <h3 align="Centre">I am a 20-year-old student in the third year of my Bachelor's Degree in Electronics & Telecommunication Engineering.<br>I hail from Navi-Mumbai, which is where I was born and brought up. I am an alumnus of DAV Public School.</h3>
 
