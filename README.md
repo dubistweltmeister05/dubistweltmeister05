@@ -6,7 +6,7 @@
 
 <br><br>
 
-<h1 align="Center">Hi 👋, I'm Kshitij Vaze </h1>
+<h1 align="Center">Hi 👋 I'm Kshitij Vaze </h1>
 <h3 align="Center">A humble Embedded developer from India <br> Welcome to my Github, and thank you for visiting. </h3>
 
 <p align="Centre">
