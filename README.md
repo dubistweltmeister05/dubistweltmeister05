@@ -24,10 +24,10 @@
 
 </p>
 
-<p align="Centre">
+
   I got introduced to Embedded systems while I was a trainee on the team, and I haven't looked back since! I am looking to collaborate and connect with people who are equally passionate about 
   Embedded development, bare metal programming, VLSI, and robotics! I also have been a guitarist since I was 12, and am a sports enthusiast, having played football and cricket at club level.
-</p>
+
 
 
 ## 🌐 Socials:
