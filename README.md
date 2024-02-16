@@ -13,7 +13,7 @@
   I am a 20-year-old student in the third year of my Bachelor's Degree in Electronics & Telecommunication Engineering.<br>I hail from Navi-Mumbai, which is where I was born and brought up. I am an 
   alumnus of DAV Public School.
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=dubistweltmeister05)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dubistweltmeister05)](https://github.com/dubistweltmeister05/github-profile-trophy)
 <br><br>  
 
 <img align="right" alt="coding" width="400" src="https://github.com/dubistweltmeister05/dubistweltmeister05/blob/main/_704e2deb-eceb-4555-8b30-af8942dea2eb.jpg" /> 
